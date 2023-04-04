@@ -1,0 +1,42 @@
+body {
+  min-height: 1200px;
+}
+
+.jumbotron {
+  background-color: #e2edff;
+}
+
+.kontak {
+  background-color: #e2edff;
+}
+
+h1 {
+  padding-top: 7rem;
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.garis1 {
+  margin: 24px 490px;
+  border-style: solid;
+}
+
+.garis2 {
+  width: 20%;
+  margin: 24px 400px;
+  color: black;
+  border-style: solid;
+}
+
+.about {
+  text-align: center;
+}
+
+nav {
+  display: block;
+}
+
+input {
+  display: block;
+  width: 50%;
+}
